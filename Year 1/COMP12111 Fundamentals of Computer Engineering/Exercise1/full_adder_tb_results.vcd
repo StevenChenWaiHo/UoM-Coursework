@@ -1,0 +1,92 @@
+$date
+	Wed Oct 21 14:35:02 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module full_adder_tb $end
+$var wire 1 ! s $end
+$var wire 1 " cout $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % cin $end
+$scope module dut $end
+$var wire 1 # a $end
+$var wire 1 & ab $end
+$var wire 1 ' axorb $end
+$var wire 1 $ b $end
+$var wire 1 % cin $end
+$var wire 1 ( cin_axorb $end
+$var wire 1 " cout $end
+$var wire 1 ! s $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x(
+x'
+x&
+0%
+0$
+0#
+x"
+x!
+$end
+#10
+0&
+0(
+0'
+#20
+0"
+0!
+#1000
+1#
+#1010
+1'
+#1020
+1!
+#2000
+1$
+0#
+#3000
+1#
+#3010
+0'
+1&
+#3020
+0!
+1"
+#4000
+1%
+0$
+0#
+#4010
+1!
+0&
+#4020
+0"
+#5000
+1#
+#5010
+1'
+#5020
+0!
+1(
+#5030
+1"
+#6000
+1$
+0#
+#7000
+1#
+#7010
+0'
+1&
+#7020
+1!
+0(
+#8000

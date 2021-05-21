@@ -1,0 +1,14 @@
+
+-----------------------------------------
+Your Sentence has been Spell Checked
+-----------------------------------------
+try this ?thenm?
+ 
+-----------------------------------------
+Total Number of Words: 3
+Number of Correct Words: 2
+Number of Incorrect Words: 1
+Number of Words Added to Dictionary: 0
+Number of accepting Suggestion Words: 0
+Input Time: 06/11/2020 11:33:42
+Time Spent: 0:00:11.319293sec

@@ -1,0 +1,7 @@
+scroll speed = 2.0
+spike_ratio = 3
+Tile_lv = 9
+g = 0.05
+max_x_v = 10.0
+refresh_rate = 0.001
+KeySettings = a, d, p, Escape, c

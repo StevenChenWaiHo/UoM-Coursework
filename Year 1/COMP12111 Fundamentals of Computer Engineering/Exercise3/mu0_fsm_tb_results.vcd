@@ -1,0 +1,79 @@
+$date
+	Fri Dec  4 10:19:27 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module mu0_fsm_tb $end
+$var wire 1 ! state $end
+$var reg 1 " Clk $end
+$var reg 1 # Halted $end
+$var reg 1 $ Reset $end
+$scope module dut $end
+$var wire 1 " Clk $end
+$var wire 1 # Halted $end
+$var wire 1 $ Reset $end
+$var reg 1 % next_state $end
+$var reg 1 ! state $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x%
+x$
+x#
+0"
+x!
+$end
+#500
+1"
+#1000
+1%
+0!
+0"
+0#
+1$
+#1500
+0%
+1!
+1"
+0$
+#2000
+0"
+#2500
+1%
+0!
+1"
+#3000
+0"
+#3500
+0%
+1!
+1"
+#4000
+1%
+0!
+0"
+1$
+#4500
+1"
+1#
+0$
+#5000
+0"
+#5500
+0%
+1!
+1"
+0#
+#6000
+0"
+1#
+#6500
+1"
+#7000
+0"
