@@ -1,1 +1,0 @@
-python src/ChessGameClient.py
