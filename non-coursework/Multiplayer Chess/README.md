@@ -1,3 +1,6 @@
+## Warning
+:warning: **This project is not yet complete**: It is just a test to make a multiplayer game
+
 ## Introduction
 My very first attempt of creating a multiplayer chess game in one day.
 Currently working in Windows
